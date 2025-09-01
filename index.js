@@ -1,4 +1,4 @@
-// DOM references
+// dom references
 const heartIcons = document.querySelectorAll(".heart-icon");
 const heartCountEl = document.getElementById("heartCount");
 const copyCountEl = document.getElementById("copyCount");
